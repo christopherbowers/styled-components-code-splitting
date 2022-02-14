@@ -239,6 +239,12 @@ Importing lazy and Suspence into `App.js`:
 `import { Suspense, lazy } from 'react'`
 
 
+Let's create a component
+
+```
+
+
+```
 
 
 ## Resources
